@@ -19,9 +19,6 @@ Welcome to my personal portfolio website! This project showcases my work, skills
   <ul>
     <li><strong>Responsive Design</strong>: Optimized for all devices, from desktops to mobile phones.</li>
     <li><strong>Interactive Navigation</strong>: Smooth scrolling and a sticky navbar enhance user experience.</li>
-    <li><strong>Dynamic Content</strong>: Showcases projects and experiences with engaging visuals.</li>
-    <li><strong>Accessibility</strong>: Semantic HTML and ARIA attributes improve accessibility for all users.</li>
-    <li><strong>SEO Optimized</strong>: Meta tags and structured data enhance search engine visibility.</li>
   </ul>
 </div>
 
@@ -37,19 +34,56 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 </div>
 
 ## 🧭 Sections Overview
-<div id="section>
+<div id="section">
   <ol>
-    <li><strong>1. Home</strong><br/>A hero section with a captivating introduction, featuring a background image and a call-to-action button directing visitors to view my work.</li>
-  <li><strong>2. About Me</strong><br/>An introduction to who I am, my passion for development, and a brief overview of my professional interests.</li>
-  <li><strong>3. Skills</strong><br/>Displays my proficiency in various programming languages and frameworks, categorized into:
-    <ul>
-      <li><strong>Proficient</strong>: Python, C#, MySQL</li>
-      <li><strong>Intermediate</strong>: C++, R, Java, Matlab</li>
-      <li><strong>Basic</strong>: HTML, CSS, JavaScript</li>
-      <li><strong>Frameworks</strong>: .NET, ASP.NET, Bootstrap, WPF, Django, MVC</li>
-    </ul>
-  </li>
-  <li><strong>4. Projects</strong><br/>Showcases my academic and personal projects with images, descriptions, and links:</li>
-  
+    <li><strong>Home</strong><br/>A hero section with a captivating introduction, featuring a background image and a call-to-action button directing visitors to view my work.</li>
+    <li><strong>About Me</strong><br/>An introduction to who I am, my passion for development, and a brief overview of my professional interests.</li>
+    <li><strong>Skills</strong><br/>Displays my proficiency in various programming languages and frameworks, categorized into:
+      <ul>
+        <li><strong>Proficient</strong>: Python, C#, MySQL</li>
+        <li><strong>Intermediate</strong>: C++, R, Java, Matlab</li>
+        <li><strong>Basic</strong>: HTML, CSS, JavaScript</li>
+        <li><strong>Frameworks</strong>: .NET, ASP.NET, Bootstrap, WPF, Django, MVC</li>
+      </ul>
+    </li>
+    <li><strong>Projects</strong><br/>Showcases my academic and personal projects with images, descriptions, and links:
+      <ul>
+        <li><strong>AI Outfit Recommendation Chatbot</strong></li>
+        <li><strong>Book E-Commerce System</strong></li>
+        <li><strong>Sentiment Analysis on Tweets</strong></li>
+        <li><strong>APU Cafeteria Ordering System</strong></li>
+        <li><strong>Image Enhancing & Fake Currency Detection</strong></li>
+      </ul>
+    </li>
+    <li><strong>Experience</strong><br/>
+      <ul>
+        <li>IT Intern Trainee 
+          <ul>
+            <li>Provided frontline customer service and technical support.</li>
+            <li>Designed and customized websites using WordPress.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><strong>Education</strong><br/>
+      <ul>
+        <li><strong>Bachelor of Computer Science (Hons): Intelligent Systems</strong></li>
+        <ul>
+          <li>Asia Pacific University (APU), Kuala Lumpur, Malaysia</li>
+          <li>CGPA: 3.43 / 4.0</li>
+          <li>Scholarship Recipient (2021-2024)</li>
+          <li>Key Coursework: Machine Learning, NLP, Data Structures, Algorithms, Software Engineering, Computer Vision.</li>      
+        </ul>
+      </ul>
+    </li>
+     <li><strong>Contact</strong><br/>
+      <ul>
+        <li>Email: <a href="mailto:ccng0403@gmail.com">ccng0403@gmail.com</a></li>
+        <li>LinkedIn:<a href="linkedin.com/in/che-cheng-ng-ab8045319">linkedin.com/in/che-cheng-ng-ab8045319</a></li>
+      </ul>
+    </li>
+    
   </ol>
 </div>
+
+
