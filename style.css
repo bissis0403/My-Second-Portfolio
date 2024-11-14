@@ -1,0 +1,148 @@
+/* General Styles */
+body {
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: #fbd288;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+.nav-link {
+  color: white !important;
+  font-weight: 600;
+}
+.hero-section {
+  background: url("../images/hero-bg.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  padding: 200px 0;
+  background-color: #ff9c73;
+}
+
+.hero-section h1 {
+  font-size: 3.5rem;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+}
+
+.about-section img {
+  max-width: 200px;
+  position: relative;
+  bottom: 70px;
+}
+/* Skills Section Styles */
+.skills-section h2 {
+  color: #333;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.proficient-card {
+  background-color: #e8f5e9; /* Light green */
+}
+
+.intermediate-card {
+  background-color: #fffde7; /* Light yellow */
+}
+
+.basic-card {
+  background-color: #e3f2fd; /* Light blue */
+}
+
+.frameworks-card {
+  background-color: #f3e5f5; /* Light purple */
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.skills-section i,
+.skills-section img,
+.skills-section .custom-text {
+  font-size: 60px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.skills-section .custom-icon {
+  width: 120px;
+  height: 60px;
+  vertical-align: middle; 
+}
+
+.skills-section .custom-text {
+  font-size: 60px;
+  line-height: 1;
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+.list-inline-item {
+  margin-bottom: 15px;
+}
+
+/* Projects Section Styles */
+.projects-section h2 {
+  color: #333;
+}
+
+.projects-section .card {
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.projects-section .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.projects-section .card-img-top {
+  height: 200px;
+  object-fit: contain;
+  background-color: #f8f9fa
+}
+
+.projects-section .card-title {
+  font-weight: bold;
+}
+
+.projects-section .btn {
+  background-color: #007bff;
+  border: none;
+}
+
+.projects-section .btn:hover {
+  background-color: #0056b3;
+}
+
+
+.contact-section {
+  background-color: #f8f9fa;
+}
+
+.footer {
+  background-color: #343a40;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: #007bff;
+}
