@@ -79,7 +79,7 @@ Welcome to my personal portfolio website! This project showcases my work, skills
      <li><strong>Contact</strong><br/>
       <ul>
         <li>Email: <a href="mailto:ccng0403@gmail.com">ccng0403@gmail.com</a></li>
-        <li>LinkedIn:<a href="linkedin.com/in/che-cheng-ng-ab8045319">linkedin.com/in/che-cheng-ng-ab8045319</a></li>
+        <li>LinkedIn:<a href="https://www.linkedin.com/in/che-cheng-ng-ab8045319">linkedin.com/in/che-cheng-ng-ab8045319</a></li>
       </ul>
     </li>
     
